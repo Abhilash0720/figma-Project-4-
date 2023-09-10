@@ -1,0 +1,23 @@
+nav{
+    background-color: rgb(79, 55, 233);
+    padding:20px;
+    color: white;
+}
+.card{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 300px;
+    height: 200px;
+    display: flexbox;
+    float: left;
+     margin-left: 80px; 
+     margin-top: 40px;
+}
+
+.card-body{
+     background-color: rgb(136, 242, 242);
+    height: 150px;
+}
+.card-text{
+    margin-left: 20px;
+}
